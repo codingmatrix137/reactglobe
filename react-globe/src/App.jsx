@@ -1,8 +1,8 @@
 import { useEffect,useRef } from "react"
 import * as echarts from 'echarts'
 import 'echarts-gl'
-import earth from './assets/earth.png'
-import stars from './assets/starfield.png'
+import earth from './assets/earth.jpg'
+import stars from './assets/starfield.jpg'
 function App() {
   const chartRef = useRef(null)
 
